@@ -4,3 +4,4 @@ data
 *.zip
 *.icloud
 venv
+__pycache__
